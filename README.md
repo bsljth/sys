@@ -8,7 +8,7 @@ I am in the process of designing a programming language, and I would love to mak
 `system.out.println` anyone?
 
 ### Usage
-Simply import the package, and call the necessary funtion.
+Simply import the package, and call the necessary function.
 
 ```go
 package main
