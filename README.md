@@ -8,7 +8,13 @@ I am in the process of designing a programming language, and I would love to mak
 `system.out.println` anyone?
 
 ### Usage
-Simply import the package, and call the necessary function.
+Install the package to your Go module using `go get`
+
+```bash
+$ go get github.com/bsljth/sys
+```
+
+Then, simply import the package, and call the necessary function.
 
 ```go
 package main
