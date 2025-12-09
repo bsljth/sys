@@ -24,6 +24,6 @@ import (
 )
 
 func main() {
-	sys.Log("Hello, world!")
+	sys.Log("Hello, world!")	// like console.log() in JavaScript
 }
 ```
